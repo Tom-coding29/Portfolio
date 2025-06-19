@@ -3,7 +3,7 @@ export default function Home() {
     {
       titre: "Site e-commerce React/Node.js",
       desc: "Développement complet d'une boutique en ligne performante et sécurisée.",
-      url: "https://tom-ecommerce-6kg33a3y2-toms-projects-d3707d0e.vercel.app/",
+      url: "https://tom-ecommerce-app.vercel.app/",
     },
     {
       titre: "App gestion de tâches Next.js",
