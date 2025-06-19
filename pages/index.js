@@ -48,7 +48,7 @@ export default function Home() {
 
       <section>
         <h2>Contact</h2>
-        <p>Envie de collaborer ? Écris-moi : <a href="mailto:tom@gmail.com" style={{ color: "#0070f3" }}>tom@example.com</a></p>
+        <p>Envie de collaborer ? Écris-moi : <a href="mailto:tom.meurice@gmail.com" style={{ color: "#0070f3" }}>tom.meurice@gmail.com</a></p>
         <p>Retrouve-moi aussi sur <a href="https://www.linkedin.com/in/tom-meurice-3743b0234/" target="_blank" rel="noopener noreferrer" style={{ color: "#0070f3" }}>LinkedIn</a> et <a href="https://github.com/Tom-coding29" target="_blank" rel="noopener noreferrer" style={{ color: "#0070f3" }}>GitHub</a>.</p>
       </section>
     </main>
