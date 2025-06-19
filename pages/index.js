@@ -3,12 +3,12 @@ export default function Home() {
     {
       titre: "Site e-commerce React/Node.js",
       desc: "Développement complet d'une boutique en ligne performante et sécurisée.",
-      url: "https://exemple-ecommerce.com",
+      url: "https://tom-ecommerce-6kg33a3y2-toms-projects-d3707d0e.vercel.app/",
     },
     {
       titre: "App gestion de tâches Next.js",
       desc: "Application web pour gérer tes projets et tâches en équipe.",
-      url: "https://exemple-tasksapp.com",
+      url: "https://tom-task-manager.vercel.app/",
     },
     {
       titre: "API REST Express.js",
